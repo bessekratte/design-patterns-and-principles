@@ -1,0 +1,26 @@
+Niektórzy pracownicy pracują na godziny. Wypłaca się im wynagrodzenie według stawki godzino-
+wej, która jest ustawiana w jednym z pól w rekordzie pracownika. Pracownicy dostarczają dzienne
+karty pracy, w których są zarejestrowane daty oraz liczba przepracowanych godzin. Jeśli pracują
+więcej niż 8 godzin dziennie, to za dodatkowe godziny są opłacani według stawki wynoszącej 1,5 raza
+więcej od ich normalnej stawki. Wynagrodzenia są im wypłacane w każdy piątek.
+
+Niektórzy pracownicy otrzymują „płaskie” wynagrodzenie. Wypłata następuje ostatniego roboczego
+dnia w miesiącu. Ich miesięczne wynagrodzenie jest zawarte w jednym z pól w rekordzie pracownika.
+
+Niektórzy pracownicy otrzymują prowizję na podstawie zrealizowanej przez nich sprzedaży. Dostar-
+czają dokumenty potwierdzające sprzedaż i zawierające datę sprzedaży oraz kwotę. Stawka prowizji
+jest zapisana w jednym z pól rekordu pracownika. Wynagrodzenia są im wypłacane w każdy piątek.
+
+Pracownicy mają możliwość wyboru metody wypłaty. Mogą otrzymywać czeki, które są wysyłane
+pod wskazane adresy pocztowe. Mogą odebrać czeki osobiście od płatnika lub mogą zażądać prze-
+lania pieniędzy na wskazany rachunek bankowy.
+
+Niektórzy pracownicy należą do związku zawodowego. W rekordzie pracownika istnieje pole doty-
+czące wysokości należnych składek. Składki są potrącane z ich uposażenia. Ponadto związek zawo-
+dowy od czasu do czasu może pobierać dodatkowe opłaty od indywidualnych członków związku.
+Związek zawodowy dostarcza zleceń potrąceń co tydzień. Wskazane kwoty muszą być potrącone
+z kolejnej wypłaty wskazanego pracownika.
+
+Aplikacja płacowa jest uruchamiana tylko raz każdego dnia roboczego i dokonuje wypłat określonej
+grupie pracowników. System uzyska informacje dotyczące daty wypłaty. Na tej podstawie będzie mógł
+obliczyć wynagrodzenia od ostatniej wypłaty zrealizowanej dla pracownika do wskazanej daty.

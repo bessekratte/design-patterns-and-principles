@@ -1,0 +1,3 @@
+AddEmp <EmpID> "<nazwisko>" "<adres>" H <stawka-godzinowa>
+AddEmp <EmpID> "<nazwisko>" "<adres>" S <wynagrodzenie-miesięczne>
+AddEmp <EmpID> "<nazwisko>" "<adres>" C <wynagrodzenie-miesięczne> <stawka-prowizji>

@@ -11,4 +11,6 @@ public abstract class Employee {
     private String name;
     private String lastName;
     private String adres;
+    private boolean isWorkingOnHours;
+    private double provision;
 }
